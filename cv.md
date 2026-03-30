@@ -31,7 +31,7 @@ describe(“Multiply”, () => { it(“fixed tests”, () => { assert.strictEqua
 
   <tbody> 
     <tr>
-      <td>Шоколад «Тота»</td>
+      <td>Russian - С2</td>
     </tr>
      <tr>
       <td>English - A2</td>
