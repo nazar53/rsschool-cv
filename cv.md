@@ -21,5 +21,23 @@ describe(“Multiply”, () => { it(“fixed tests”, () => { assert.strictEqua
 # Education
 * School
 # Languages
-* Russian - С2
-* English - A2
+
+<table>
+  <thead>
+    <tr>
+      <th># Languages</th>
+    </tr>
+  </thead>
+
+  <tbody> 
+    <tr>
+      <td>Шоколад «Тота»</td>
+    </tr>
+     <tr>
+      <td>English - A2</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
